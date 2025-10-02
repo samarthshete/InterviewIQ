@@ -1,4 +1,4 @@
-# 🎯 FinalRound - Advanced Multi-Agent Interview System
+# 🎯 InterviewIQ - Advanced Multi-Agent Interview System
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0.11.0-green)](https://llamaindex.ai/)
@@ -16,7 +16,7 @@
 
 ## 🚀 Overview
 
-FinalRound is an advanced multi-agent interview system that revolutionizes technical interviews through intelligent coordination between specialized AI agents. The system features real-time candidate evaluation, adaptive topic management, and dynamic question generation that responds to candidate performance in real-time.
+InterviewIQ is an advanced multi-agent interview system that revolutionizes technical interviews through intelligent coordination between specialized AI agents. The system features real-time candidate evaluation, adaptive topic management, and dynamic question generation that responds to candidate performance in real-time.
 
 ## ✨ Enhanced Key Features
 
@@ -35,7 +35,7 @@ FinalRound is an advanced multi-agent interview system that revolutionizes techn
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
-│                   FINALROUND ADVANCED MULTI-AGENT SYSTEM               │
+│                   InterviewIQ ADVANCED MULTI-AGENT SYSTEM               │
 └─────────────────────────────────┬───────────────────────────────────────┘
                                   │
 ┌─────────────────────────────────▼───────────────────────────────────────┐
@@ -139,7 +139,7 @@ Candidate Response → Multi-Agent Analysis → Strategic Decision → Next Ques
 ## 📁 Enhanced Project Structure
 
 ```
-FinalRound/
+InterviewIQ/
 ├── 📚 Documentation
 │   ├── README.md                           # This comprehensive guide
 │   ├── CLAUDE.md                          # Project instructions & setup
@@ -194,7 +194,7 @@ FinalRound/
 ```bash
 # 1. Clone the repository
 git clone <repository-url>
-cd FinalRound
+cd InterviewIQ
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -254,7 +254,7 @@ python main.py
 ```
 The system initializes all 4 agents and performs document analysis:
 ```
-🎯 FinalRound Multi-Agent System v2.0
+🎯 InterviewIQ Multi-Agent System v2.0
 Initializing agents: [████████████████████] 100%
 
 ✅ OrchestratorAgent: Document analysis complete
@@ -372,7 +372,7 @@ Next Topic: System Design (High importance, candidate strength detected)
 
 ## 🧪 Comprehensive Test Suite
 
-The FinalRound system includes an advanced test suite (`test_multi_agent_system.py`) that validates all multi-agent functionality:
+The InterviewIQ system includes an advanced test suite (`test_multi_agent_system.py`) that validates all multi-agent functionality:
 
 ### Test Suite Features
 
@@ -414,7 +414,7 @@ python test_multi_agent_system.py --adaptive-testing
 ### Test Output Example
 
 ```
-🎯 FinalRound Multi-Agent System Comprehensive Test Suite
+🎯 InterviewIQ Multi-Agent System Comprehensive Test Suite
 ======================================================================
 🔧 Setting up multi-agent test environment
 ✅ SessionManager initialized
@@ -696,7 +696,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**🎯 FinalRound v2.0 - Next-Generation AI Interview System**
+**🎯 InterviewIQ v2.0 - Next-Generation AI Interview System**
 
 *Advanced Multi-Agent Architecture • Real-time Evaluation • Adaptive Intelligence*
 
